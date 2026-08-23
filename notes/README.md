@@ -9,6 +9,10 @@ books/      读书笔记
 courses/    课程与视频课笔记
 ```
 
+## 算法刷题方法
+
+- [算法题边界处理清单](algorithm-boundary-checklist.md)
+
 ## 建议写法
 
 - 用 Markdown 记录关键概念，不必追求一次写完整。
